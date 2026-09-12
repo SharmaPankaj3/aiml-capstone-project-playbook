@@ -25,7 +25,7 @@ It is a demonstration of problem-solving, analytical thinking, experimentation, 
 
 
 ##  The Capstone Thinking Framework
-
+```text
 Business Problem
        ↓
 Problem Definition
